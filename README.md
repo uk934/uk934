@@ -43,11 +43,11 @@ Data Structures | OOP | Database Design | Basic ML
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uk934&color=blue)
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/ujjwal-kumar-214377288/ 
-Email: uk934925@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ujjwalkumar9706/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-kumar-214377288/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uk934925@gmail.com)
 
 ---
-
 ⭐ Always learning. Always building.
