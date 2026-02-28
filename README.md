@@ -41,7 +41,7 @@ Data Structures | OOP | Database Design | Basic ML
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uk934&show_icons=true&theme=transparent)---
+![Profile Views](https://komarev.com/ghpvc/?username=uk934&color=blue)
 
 ## 📫 Connect With Me
 
