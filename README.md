@@ -41,8 +41,7 @@ Data Structures | OOP | Database Design | Basic ML
 
 ## 📊 GitHub Stats
 
-![Github_Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uk934&layout=compact&theme=tokyonight)
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uk934&show_icons=true&theme=transparent)---
 
 ## 📫 Connect With Me
 
