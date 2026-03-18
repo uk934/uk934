@@ -41,6 +41,10 @@ Data Structures | OOP | Database Design | Basic ML
 
 ## 📊 GitHub Stats
 
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=uk934&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uk934&layout=compact&theme=tokyonight)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=uk934&color=blue)
 
 ## 🌐 Connect With Me
